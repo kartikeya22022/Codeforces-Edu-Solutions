@@ -1,1 +1,1 @@
-# CodeforcesEduSegmentTreeSolutions.
+# Codeforces-Edu-Segment-Tree-Solutions
