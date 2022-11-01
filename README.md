@@ -1,1 +1,1 @@
-# CODEFORCES EDU SEGMENT TREE SOLUTIONS.
+# CodeforcesEduSegmentTreeSolutions.
